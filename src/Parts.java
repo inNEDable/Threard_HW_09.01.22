@@ -1,5 +1,3 @@
-package pack1;
-
 public class Parts {
 
     public static class Seat {
